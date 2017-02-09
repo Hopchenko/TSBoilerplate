@@ -235,12 +235,12 @@
       <updated>1486571911810</updated>
       <workItem from="1486571913386" duration="8490000" />
       <workItem from="1486651209560" duration="2064000" />
-      <workItem from="1486653439010" duration="56000" />
+      <workItem from="1486653439010" duration="220000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10610000" />
+    <option name="totallyTimeSpent" value="10774000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
